@@ -1,3 +1,4 @@
+//trip controllers
 const supabase = require("../config/supabase");
 const createTrip=async(req , res)=>{
     try{

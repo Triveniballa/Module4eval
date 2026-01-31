@@ -26,3 +26,4 @@ router.post("/add",async(req,res)=>{
     res.status(201).json({message:"Vehicle added"});
 });
 module.exports = router;
+//vehicle routes

@@ -53,3 +53,4 @@ const endTrip=async(req , res)=>{
     }
 };
 module.exports={createTrip,endTrip};
+//trip controlers

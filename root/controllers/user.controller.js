@@ -19,3 +19,4 @@ const signupUser=async (req , res)=>{
 
 module.exports ={signupUser};
 //user controller
+//user
